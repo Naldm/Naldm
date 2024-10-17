@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naldm
 - 👀 I’m interested in mathematics.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on bettering my python skills.
+- 💞️ I’m looking to collaborate on bettering my coding skills.
 - 📫 How to reach me via email: nooraldeanmamoon@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently studying mathematics at Queen Mary University of London.
